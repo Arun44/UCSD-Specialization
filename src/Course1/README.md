@@ -13,3 +13,8 @@ The follwoing are my submissions for the weekly assignments in the course.
 * [Least Common Multiple](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week2/LeastCommonMultiple.cpp)
 * [Huge Fibonacci Number Modulo M](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week2/HugeFibonacciNumberModuloM.cpp)
 * [Sum Of Fibonacci Numbers](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week2/SumOfFibonacciNumbers.cpp)
+
+
+### WEEK 3:
+
+* [Changing Money](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week3/ChangingMoney.cpp)
