@@ -18,3 +18,8 @@ The follwoing are my submissions for the weekly assignments in the course.
 ### WEEK 3:
 
 * [Changing Money](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week3/ChangingMoney.cpp)
+* [Maximizing The Value Of A Loot](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week3/MaximizingTheValueOfALoot.cpp)
+* [Maximizing Revenue In Online Ad Placement](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week3/MaximizingRevenueInOnlineAdPlacement.cpp)
+* [Collecting Signatures](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week3/CollectingSignatures.cpp)
+* [Maximizing The Number Of Price Places In A Competition](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week3/MaximizingTheNumberOfPlacesCompetition.cpp)
+* [Maximize Your Salary](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week3/MaximizeYourSalary.cpp)
