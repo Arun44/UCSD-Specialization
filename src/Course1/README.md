@@ -23,3 +23,9 @@ The follwoing are my submissions for the weekly assignments in the course.
 * [Collecting Signatures](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week3/CollectingSignatures.cpp)
 * [Maximizing The Number Of Price Places In A Competition](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week3/MaximizingTheNumberOfPlacesCompetition.cpp)
 * [Maximize Your Salary](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week3/MaximizeYourSalary.cpp)
+
+
+### WEEK 4:
+
+* [Implementing Binary Search](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week4/binarysearch.cpp)
+* [Majority Element](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week4/MajorityElement.cpp)
