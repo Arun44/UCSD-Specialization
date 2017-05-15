@@ -28,4 +28,4 @@ The follwoing are my submissions for the weekly assignments in the course.
 ### WEEK 4:
 
 * [Implementing Binary Search](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week4/binarysearch.cpp)
-* [Majority Element](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week4/MajorityElement.cpp)
+* [Finding A Majority Element](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course1/Week4/MajorityElement.cpp)
