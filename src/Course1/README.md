@@ -1,4 +1,4 @@
-The follwoing are my submissions for the weekly assignments in the course.
+The following are my submissions for the weekly assignments in the course.
 
 ###  WEEK 1:
 
