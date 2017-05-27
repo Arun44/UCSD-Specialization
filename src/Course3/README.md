@@ -15,3 +15,7 @@ The following are my submissions for the weekly assignments in the course.
 ### WEEK 3:
 
 * [Computing The Minimum Number Of Flight Segments](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course3/Week3/MinimumNumberOfFlightSegments.cpp)
+
+### WEEK 4:
+
+* [Computing The Minimum Cost Of A Flight](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course3/Week4/ComputingTheMinimumCost.cpp)
