@@ -19,3 +19,5 @@ The following are my submissions for the weekly assignments in the course.
 ### WEEK 4:
 
 * [Computing The Minimum Cost Of A Flight](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course3/Week4/ComputingTheMinimumCost.cpp)
+* [Detecting Anomalies In Currency Exchange Rates](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course3/Week4/DetectingAnomaliesInCurrencyExchangeRates.cpp)
+* [Exchanging Money Optimally](https://github.com/Arun44/UCSD-Specialization/blob/master/src/Course3/Week4/ExchangingMoneyOptimally.cpp)
